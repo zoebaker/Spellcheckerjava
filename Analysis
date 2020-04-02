@@ -1,0 +1,3 @@
+Using a trie is faster than using a tree.  
+The runtime for a trie is O(c) where c is the number of characters in the word you are inserting or searching for. 
+The worst case runtime for searching and inserting on a binary search tree is O(n), n being the entries in the dictionary.   
